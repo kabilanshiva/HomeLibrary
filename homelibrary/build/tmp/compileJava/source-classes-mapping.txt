@@ -1,0 +1,20 @@
+com/test/homelibrary/HomeLibraryEntity/BookEntity.java
+ com.test.homelibrary.HomeLibraryEntity.BookEntity
+com/test/homelibrary/HomeLibraryRepository/HomeLibrarySlotRepository.java
+ com.test.homelibrary.HomeLibraryRepository.HomeLibrarySlotRepository
+com/test/homelibrary/HomeLibraryRepository/CrudHomeLibrarySlotRepository.java
+ com.test.homelibrary.HomeLibraryRepository.CrudHomeLibrarySlotRepository
+com/test/homelibrary/HomeLibraryEntity/SlotEntity.java
+ com.test.homelibrary.HomeLibraryEntity.SlotEntity
+com/test/homelibrary/HomeLibraryApplication.java
+ com.test.homelibrary.HomeLibraryApplication
+com/test/homelibrary/HomeLibraryRepository/CrudHomeLibraryBookRepository.java
+ com.test.homelibrary.HomeLibraryRepository.CrudHomeLibraryBookRepository
+com/test/homelibrary/HomeLibraryService/HomeLibraryService.java
+ com.test.homelibrary.HomeLibraryService.HomeLibraryService
+com/test/homelibrary/HomeLibraryService/impl/HomeLibraryServiceImpl.java
+ com.test.homelibrary.HomeLibraryService.impl.HomeLibraryServiceImpl
+com/test/homelibrary/HomeLibraryRepository/HomeLibraryBookRepository.java
+ com.test.homelibrary.HomeLibraryRepository.HomeLibraryBookRepository
+com/test/homelibrary/HomeLibraryController/HomeLibraryController.java
+ com.test.homelibrary.HomeLibraryController.HomeLibraryController
